@@ -121,7 +121,7 @@
     "fs-extra": "^0.30.0",
     "html-webpack-plugin": "^3.2.0",
     "json-loader": "^0.5.3",
-    "karma": "^3.1.2",
+    "karma": "^6.3.14",
     "karma-chrome-launcher": "^2.2.0",
     "karma-cli": "^1.0.1",
     "karma-logcapture-reporter": "0.0.1",
